@@ -8,9 +8,11 @@ I am a full-stack software engineer that is passionate about bridging the gaps o
 HTML | CSS | JavaScript ES6 |React | Node.js | Express.js
 
 ### At The Moment I'm..
-- updating my Javascript skills with ES8
-- reading and youtubin' lots of JS topics
-- practicing data structures and algorithms
+:computer: updating my JS skills with ES8
+:books: reading and youtubin' lots of JS topics
+:computer: practicing data structures and algorithms
+:notebook: dedicating my days to studying
+:bike: riding my bike a heck of a lot more now that it's finally spring 
 
 ## Call Me, Beep Me If You Wanna Reach Me 
 or in this case just click these links
