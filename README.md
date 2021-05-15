@@ -6,10 +6,11 @@ I am a full-stack software engineer that is passionate about bridging the gaps o
 ## Current Skill Set
 HTML | CSS | JavaScript | ES6 |React | Node.js | Express.js
 
-### Call Me, Beep Me If You Wanna Reach Me 
+## Call Me, Beep Me If You Wanna Reach Me 
 or in this case just click these links
 
 - Portfolio: www.sainaadiradev.com
+- Twitter: www.twitter.com/sainaadiradev
 
 
 <!--
