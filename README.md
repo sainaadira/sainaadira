@@ -5,10 +5,10 @@ I am a full-stack software engineer that is passionate about bridging the gaps o
 
 
 ## Current Skill Set
-HTML | CSS | JavaScript ES6 | EJS | React | Node.js | Express.js
+HTML | CSS | JavaScript ES6+ | EJS | React | Node.js | Express.js
 
 ### At The Moment I'm..
-- updating my JS skills with ES8 :computer: 
+- keeping my React + JS skills  :computer: 
 - reading and youtubin' lots of JS topics :books: 
 - practicing data structures and algorithms :computer:
 -  dedicating my days to studying :notebook: 
