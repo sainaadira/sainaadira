@@ -8,7 +8,7 @@ I am a full-stack software engineer that is passionate about bridging the gaps o
 HTML | CSS | JavaScript ES6+ | EJS | React | Node.js | Express.js
 
 ### At The Moment I'm..
-- keeping my React + JS skills  :computer: 
+- keeping my React + JS skills fresh  :computer: 
 - reading and youtubin' lots of JS topics :books: 
 - practicing data structures and algorithms :computer:
 -  dedicating my days to studying :notebook: 
