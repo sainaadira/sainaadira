@@ -1,4 +1,4 @@
-# Hi, I'm Sai  	:desktop_computer:
+# Hi, I'm Sai  	🌻:
 :herb: Pronouns: they/them
 
 I am a full-stack software engineer that is passionate about bridging the gaps of disparities within BIPOC and other marginalized communities. Through tech, I want to build applications and work alongside people that focus on making an impactful difference.
