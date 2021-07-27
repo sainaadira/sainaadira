@@ -12,7 +12,7 @@ HTML5 | CSS3 | JavaScript ES6+ | EJS | React | Node.js | Express.js
 - reading and youtubin' lots of JS topics :books: 
 - practicing data structures and algorithms :computer:
 -  building small practice projects :notebook: 
-- riding my bike a heck of a lot more now that the weather's nice :bike: 
+- riding my bike a heck of a lot more now that summer is here :bike: 
 
 ## Call Me, Beep Me If You Wanna Reach Me 
 or in this case just click these links
