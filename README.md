@@ -11,7 +11,6 @@ HTML5 | CSS3 | JavaScript ES6+ | EJS | React | Node.js | Express.js
 - learning python & redux  :computer: 
 - reading and youtubin' lots of topics :books: 
 - practicing data structures and algorithms :computer:
--  building small practice projects :notebook: 
 
 ## Call Me, Beep Me If You Wanna Reach Me 
 or in this case just click these links
