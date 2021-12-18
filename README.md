@@ -8,7 +8,7 @@ I am a full-stack software engineer that is passionate about bridging the gaps o
 HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB | MySql
 
 ### At The Moment I'm..
-- learning python & redux  :computer: 
+- learning python & react redux  :computer: 
 - reading and youtubin' lots of topics :books: 
 - practicing data structures and algorithms :computer:
 
