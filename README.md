@@ -13,7 +13,7 @@ HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB
 - practicing data structures and algorithms :computer:
 
 ## Call Me, Beep Me If You Wanna Reach Me 
-or in this case just click these links
+or in this case just click these links:
 
 - Portfolio: www.saisumralldev.com
 - Twitter: www.twitter.com/sainaadiradev
