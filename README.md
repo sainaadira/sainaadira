@@ -9,6 +9,7 @@ HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB
 
 ### At The Moment I'm..
 - learning python & react redux  :computer: 
+- refereshing my react skills
 - reading and youtubin' lots of topics :books: 
 - practicing data structures and algorithms :computer:
 
