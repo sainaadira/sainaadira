@@ -1,5 +1,5 @@
-# Hi, I'm Sai  	🌻
-:herb: Pronouns: they/them
+# Hi, I'm Sai (they/them)🌻
+
 
 I am a full-stack software engineer that is passionate about bridging the gaps of disparities within BIPOC and other marginalized communities. Through tech, I want to build applications and work alongside people that focus on making an impactful difference.
 
