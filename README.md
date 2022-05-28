@@ -12,7 +12,7 @@ HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB
 or in this case just click these links:
 
 - Portfolio: www.saisumralldev.com
-- Twitter: www.twitter.com/sainaadiradev
+- Twitter: www.twitter.com/saisumdev
 
 
 <!--
