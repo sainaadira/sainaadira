@@ -6,7 +6,7 @@ I am a full-stack software engineer that is passionate about bridging the gaps o
 
 
 ## Current Skill Set
-HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB (Atlas) | MySql | GraphQL
+HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB | MySql | GraphQL
 
 
 ## Call Me, Beep Me If You Wanna Reach Me..
