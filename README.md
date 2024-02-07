@@ -1,6 +1,6 @@
 # Hi, I'm Sai  :computer:
-
 &bull; pronouns: they/them
+
 
 I am a full-stack software engineer that is passionate about bridging the gaps of disparities within BIPOC and other marginalized communities. Through tech, I want to build applications and work alongside people that focus on making an impactful difference.
 
@@ -14,6 +14,11 @@ or in this case just click these links:
 
 - Portfolio: www.saisumralldev.com
 - Twitter: www.twitter.com/saisumdev
+
+
+  [![!](https://visitcount.itsvg.in/api?id=Sai&label=Thanks%20for%20being%20here!&color=8&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+
 
 
 <!--
