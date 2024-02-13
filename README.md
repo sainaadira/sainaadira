@@ -16,8 +16,6 @@ or in this case just click these links:
 - Twitter: www.twitter.com/saisumdev
 
 
-  [![!](https://visitcount.itsvg.in/api?id=Sai&label=Thanks%20for%20being%20here!&color=8&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
 
 
 
