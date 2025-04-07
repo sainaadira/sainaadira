@@ -11,7 +11,6 @@ HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MySql |
 or in this case just click these links:
 
 - Portfolio: www.saisumralldev.com
-- Twitter/X: www.twitter.com/saisumdev
 
 
 
